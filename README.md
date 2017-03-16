@@ -11,25 +11,22 @@
 	* dot notation vs bracket notation
 
 
-2. Fork and clone this repo.  When you need to commit use the following commands.
-		
-	* git status
-	* git add --all
-	* git status
-	* git commit -m "your commit message"
-	* git push origin master
+Answers:
 
-3. Install dependencies using `npm install`.  Run tests using `npm test`.
+Object, Properties and Methods:
+           
+          Object are just like variable, Object consists of properties and method. Consider for example cat as an object it has properties like color: black and two eyes, Similarly consider method as it running , eating etc.
 
-4. Make the tests pass!
+For in Loop: 
+     
+         For in loop is an iteration of taking particular variable with that of particular property of the given variable and executes them.
+
+Dot notation vs bracket:
+
+         Dot notion is if you know the name of the key e.g user.name
+And use bracket notation if you don't because you are using a variable
+E.g user[someKey.Both do the same function,though its better to use dot notation over brackets.
 
 
 
-#### Congratulations on finishing Homework #3!
-Apply to our full-time or part-time immersive program to learn cutting edge technologies that are used by top technology companies around the world.
 
-Our part-time and full-time courses are 13 intense weeks of focused study on the most relevant technologies.  
-
-Class sizes are small to ensure that each student gets individual attention from our world class instructors to help them succeed.  We also provide career support both during and after the course to help you succeed.  We are committed to your success.
-
-For more information visit: https://www.lambdaschool.com
